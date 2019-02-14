@@ -1,0 +1,10 @@
+{
+    "operators": [
+        71115249
+    ],
+
+    "tables": {
+        "Physics_theary_library": ["Photo", "Tag", "Priority"],
+        "Physics_tasks": ["Theme", "The task", "Answer", "Decision"]
+    }
+}
